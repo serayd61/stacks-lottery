@@ -27,3 +27,10 @@ Decentralized lottery on Stacks with on-chain randomness.
 ## License
 MIT
 
+
+
+---
+## Decentralized Lottery
+- ✅ Fair random selection
+- ✅ STX prize pool
+- ✅ Mainnet live
